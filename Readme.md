@@ -25,3 +25,5 @@ And much more.
 
 the above is already present material to start
 from the project from youtube
+
+from here i will create all the things on my own with help of chatgpt and google
