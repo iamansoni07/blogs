@@ -7,7 +7,10 @@ const Navbar = () => {
         <Link to="/" className="flex-none w-10">
             <img src={logo} className="w-full" />
         </Link>
+  
+        <div className="absolute bg-white w-full left-0 top-full mt-0 border-b border-grey">
 
+        </div>
     </nav>
   );
 };
