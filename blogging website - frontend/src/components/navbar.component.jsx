@@ -11,7 +11,7 @@ const Navbar = () => {
         <div className="absolute bg-white w-full left-0 top-full mt-0 border-b border-grey">
             <input
                 type="text"
-
+                placeholder="Search"
             />
         </div>
     </nav>
